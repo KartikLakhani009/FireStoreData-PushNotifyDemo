@@ -1,0 +1,6 @@
+*.pbxproj -text
+
+# lock file
+package-lock.json
+
+

@@ -1,0 +1,12 @@
+
+# this list of user 
+
+https://reqres.in/api/users?page=2
+
+
+#this is Login api with 
+###
+https://reqres.in/api/login
+Content-Type: application/json
+
+{"email": "eve.holt@reqres.in","password": "cityslicka"}
